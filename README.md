@@ -1,5 +1,5 @@
-# Explore Post Fire Modeling 2025
-This repository contains a Jupyter notebook intended for exploring how WEPP models post-fire conditions for select fires across the Western U.S.
+# Explore Honduras Prioritization
+This repository contains a Jupyter notebook intended for exploring how watershed prioritization for source protection in Honduras.
 
 __You can access the notebook using binder by clicking on the link below__:
 
