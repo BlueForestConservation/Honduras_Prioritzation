@@ -1,4 +1,4 @@
-name: firemodel-env
+name: hmodel-env
 channels:
   - conda-forge
 dependencies:
