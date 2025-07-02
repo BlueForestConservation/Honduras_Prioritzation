@@ -1,0 +1,14 @@
+name: firemodel-env
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - matplotlib
+  - geopandas
+  - contextily
+  - xyzservices       # needed for contextily basemaps
+  - ipywidgets
+  - notebook
+  - jupyterlab
+  - ipykernel
